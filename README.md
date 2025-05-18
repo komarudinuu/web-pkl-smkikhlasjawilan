@@ -1,4 +1,4 @@
-### 📌 Studi Kasus: SMK Ikhlas Jawilan
+### 📌 Website Sistem Informasi Praktik Kerja Lapangan (Studi Kasus: SMK Ikhlas Jawilan)
 
 Selamat datang di repository resmi proyek pengembangan Sistem Informasi PKL untuk SMK Ikhlas Jawilan. Aplikasi ini bertujuan untuk mempermudah pengelolaan data siswa PKL, monitoring presensi, pencatatan kegiatan, serta informasi DUDI (Dunia Usaha & Dunia Industri) secara terpusat dan berbasis web.
 
