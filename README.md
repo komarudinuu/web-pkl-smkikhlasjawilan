@@ -47,7 +47,7 @@ Selamat datang di repository resmi proyek pengembangan Sistem Informasi PKL untu
 ## ⚙️ Teknologi yang Digunakan
 
 * **Frontend:** HTML, CSS, JavaScript (Bootstrap)
-* **Backend:** PHP (Native)
+* **Backend:** PHP (CodeIgniter)
 * **Database:** MySQL
 * **Metode Pengembangan:** Agile Unified Process (AUP)
 
