@@ -67,8 +67,8 @@ Selamat datang di repository resmi proyek pengembangan Sistem Informasi PKL untu
 
 Beberapa file besar disimpan di Google Drive agar repository tetap ringan. Silakan unduh melalui link berikut:
 
-* 📦 **Download Database SQL** (https://drive.google.com/file/d/1qaZirOuXG8V7BH7imBoMtneg65NGqR4x/view?usp=sharing)
-* 📦 **File Backup Lengkap** (https://drive.google.com/file/d/1o8cF5FHHndXaTmNrFv3DkVZA_R7D5yUY/view?usp=sharing)
+* 📦 **[Download Database SQL]**(https://drive.google.com/file/d/1qaZirOuXG8V7BH7imBoMtneg65NGqR4x/view?usp=sharing)
+* 📦 **[File Backup Lengkap]**(https://drive.google.com/file/d/1o8cF5FHHndXaTmNrFv3DkVZA_R7D5yUY/view?usp=sharing)
 
 
 ## 📌 Catatan
